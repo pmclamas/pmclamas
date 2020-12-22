@@ -15,7 +15,7 @@ work in progress...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/pmclamas" target="blank"><img align="center" src="/Users/pedrolamas/Desktop/Work_Station/inprogress_projects/pmclamas/assets/linkedin.svg" alt="pmclamas" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/pmclamas" target="blank"><img align="center" src="https://github.com/pmclamas/pmclamas/blob/main/assets/linkedin.svg" alt="pmclamas" height="30" width="30" /></a>
 
 <!--
 **pmclamas/pmclamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
