@@ -15,6 +15,7 @@ work in progress...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+<a href="https://twitter.com/pmclamas" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/pmclamas/pmclamas/blob/main/assets/twitter.svg" alt="pmclamas" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/pmclamas" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/pmclamas/pmclamas/blob/main/assets/linkedin.svg" alt="pmclamas" height="30" width="30" /></a>
 
 <!--
