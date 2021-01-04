@@ -17,6 +17,7 @@ work in progress...
 
 <a href="https://twitter.com/pmclamas" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/pmclamas/pmclamas/blob/main/assets/twitter.svg" alt="pmclamas" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/pmclamas" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/pmclamas/pmclamas/blob/main/assets/linkedin.svg" alt="pmclamas" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/6084776/pedro-lamas?tab=profile" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/pmclamas/pmclamas/blob/main/assets/stackoverflow.svg" alt="pmclamas" height="30" width="30" /></a>
 
 <!--
 **pmclamas/pmclamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
