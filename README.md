@@ -1,4 +1,4 @@
-![Banner](https://github.com/pmclamas/pmclamas/blob/main/GitHub-profile-cover.jpg)
+![Banner](https://github.com/pmclamas/pmclamas/blob/main/GitHub_banner.jpeg)
 
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
