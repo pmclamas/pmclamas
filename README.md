@@ -7,9 +7,7 @@
 
 <!-- Personal Stuffs -->
 <h3> Talking about personal stuffs:</h3>
-...
-work in progress...
-...
+cybersecurity & infosec || all things data-driven #dataengineering #informationsystems || Friluftsliv, books, coffee, puzzles, stoicism, photography ||
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
