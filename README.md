@@ -6,8 +6,10 @@
 <h3>Glad to see you here!</h3>
 
 <!-- Personal Stuffs -->
-<h3> Talking about personal stuffs:</h3>
-cybersecurity & infosec || all things data-driven #dataengineering #informationsystems || Friluftsliv, books, coffee, puzzles, stoicism, photography ||
+<h3> Talking about personal stuff:</h3>
+Cybersecurity & Infosec || all things data-driven #dataengineering #informationsystems || 
+
+|| Friluftsliv, books, coffee, puzzles, stoicism, photography ||
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
